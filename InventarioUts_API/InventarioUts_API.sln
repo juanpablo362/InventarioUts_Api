@@ -5,6 +5,12 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventarioUts_API", "InventarioUts_API\InventarioUts_API.csproj", "{8E7EE777-505A-4534-9A77-290AF84616E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventarioUts_API.Data", "InventarioUts_API.Data\InventarioUts_API.Data.csproj", "{66EF9D7E-0FC9-4EC2-8296-F6B4A9BA501E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventarioUts_API.DTOs", "InventarioUts_API.DTOs\InventarioUts_API.DTOs.csproj", "{FB993C63-60C2-4A50-B39F-292D20FE7C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventarioUts_API.Models", "InventarioUts_API.Models\InventarioUts_API.Models.csproj", "{9A56C9F1-C77F-4598-B0C7-783A61ECBA7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{8E7EE777-505A-4534-9A77-290AF84616E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E7EE777-505A-4534-9A77-290AF84616E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E7EE777-505A-4534-9A77-290AF84616E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EF9D7E-0FC9-4EC2-8296-F6B4A9BA501E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EF9D7E-0FC9-4EC2-8296-F6B4A9BA501E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EF9D7E-0FC9-4EC2-8296-F6B4A9BA501E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EF9D7E-0FC9-4EC2-8296-F6B4A9BA501E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB993C63-60C2-4A50-B39F-292D20FE7C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB993C63-60C2-4A50-B39F-292D20FE7C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB993C63-60C2-4A50-B39F-292D20FE7C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB993C63-60C2-4A50-B39F-292D20FE7C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A56C9F1-C77F-4598-B0C7-783A61ECBA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A56C9F1-C77F-4598-B0C7-783A61ECBA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A56C9F1-C77F-4598-B0C7-783A61ECBA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A56C9F1-C77F-4598-B0C7-783A61ECBA7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
